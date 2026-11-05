@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ojo vigilante: almendra blanca, iris dorado y pupila azul. Lienzo de 108 dp de ícono adaptativo. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,38 C40,38 31,47 26,54 C31,61 40,70 54,70 C68,70 77,61 82,54 C77,47 68,38 54,38 Z" />
+    <path
+        android:fillColor="#E0B74A"
+        android:pathData="M54,42 a12,12 0 1,0 0,24 a12,12 0 1,0 0,-24 Z" />
+    <path
+        android:fillColor="#1F3A5F"
+        android:pathData="M54,48.5 a5.5,5.5 0 1,0 0,11 a5.5,5.5 0 1,0 0,-11 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M57.5,48 a2,2 0 1,0 0,4 a2,2 0 1,0 0,-4 Z" />
+</vector>

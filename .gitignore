@@ -1,0 +1,12 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+captures/
+.kotlin/
+.DS_Store
+# Llaves de firma: nunca en el repositorio
+*.keystore
+*.jks
+keystore/
